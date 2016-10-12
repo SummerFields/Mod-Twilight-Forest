@@ -7,3 +7,4 @@ To use, add to Summerfields pack 1.7.x in the list of "ressources packs"
 Created by Summerfields Team
 
 SummerFields, is started by LithiumSound and now continued by CuddleWoozle and community.
+Support for "Twilight Forest" mod continued by tobyplowy
