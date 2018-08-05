@@ -2,7 +2,7 @@ Mod Twilight Forest for SummerFields 1.7.2
 ==========================================
 
 This is support for The "Twilight Forest" mod this Pack supports The Twilight Forest mod for v1.7.2
-To use, add to Summerfields pack 1.7.x in the list of "ressources packs"
+To use, add to Summerfields pack 1.7.x in the list of "ressource packs"
 
 Created by Summerfields Team
 
